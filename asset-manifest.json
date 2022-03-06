@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tenzies/static/css/main.02cbf4ba.css",
+    "main.js": "/tenzies/static/js/main.1a5e1d9c.js",
+    "index.html": "/tenzies/index.html",
+    "static/media/dice_icon_6.svg": "/tenzies/static/media/dice_icon_6.bc4862b8ad9d02525ed4.svg",
+    "static/media/dice_icon_5.svg": "/tenzies/static/media/dice_icon_5.3504376fc08bffca6b2c.svg",
+    "static/media/dice_icon_4.svg": "/tenzies/static/media/dice_icon_4.14d8c83a9104a377cb20.svg",
+    "static/media/dice_icon_3.svg": "/tenzies/static/media/dice_icon_3.c4110a57f4fa884df622.svg",
+    "static/media/dice_icon_2.svg": "/tenzies/static/media/dice_icon_2.1536fc14cdc0abed0da4.svg",
+    "static/media/dice_icon_1.svg": "/tenzies/static/media/dice_icon_1.9861707d0f702485cb1d.svg",
+    "main.02cbf4ba.css.map": "/tenzies/static/css/main.02cbf4ba.css.map",
+    "main.1a5e1d9c.js.map": "/tenzies/static/js/main.1a5e1d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02cbf4ba.css",
+    "static/js/main.1a5e1d9c.js"
+  ]
+}
